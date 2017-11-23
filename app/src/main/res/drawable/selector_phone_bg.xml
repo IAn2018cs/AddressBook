@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/icon_phone_nor" />
+    <item android:drawable="@mipmap/icon_phone_pass" android:state_selected="true" />
+    <item android:drawable="@mipmap/icon_phone_pass" android:state_focused="true" />
+    <item android:drawable="@mipmap/icon_phone_pass" android:state_pressed="true" />
+</selector>
